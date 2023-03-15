@@ -1,3 +1,3 @@
 # site-de-receitas
 
-<img src="img/meuSite.png">
+![Screenshot](meuSite.png)
