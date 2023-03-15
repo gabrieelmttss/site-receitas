@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style: none;
+}
+
 .container-menu {
     display: flex;
     padding: 1% 14%;
@@ -18,46 +22,41 @@ a {
     align-items: center;
 }
 
-.menu {
+.menu-item, a{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 4%;
 }
 
-.container-principal {
+.container {
     display: flex;
-    margin-top: 5%;
+    justify-content: center;
     align-items: center;
-    justify-content: space-between;
-    padding: 0% 22% 0% 16%;
+    height: 30rem;
+    margin-right: 150px;
+  }
+  
+  .destaque {
+    width: 700px;
     height: 400px;
-}
-
-.container-imagem-principal {
-    position: relative;
-}
-
-.imagem-principal {
-    width: 44.2rem;
-    border: 1px solid black;
-}
-
-.container-imagens-laterais {
+    margin-right: 20px;
+    border-radius: 10px;
+  }
+  
+  .coluna {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    width: 50%;
-    height: 100%;
-    margin: 0% 0% 0% 0%;
-}
+    gap: 1.15rem;
+    margin-left: 0.20rem;
+    border: 2px solid white;
+  }
+  
+  .coluna img {
+    width: 150px;
+    height: 190px;
+    border-radius: 10px;
+  }
 
-.imagem-lateral {
-    width: 130%;
-    margin-left: 8%;
-    margin-top: 2%;
-    margin-bottom: 5%;
-    border: 1px solid black;
-}
 
 .maisDestaques {
     font-family: Arial, Helvetica, sans-serif;
