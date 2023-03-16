@@ -67,10 +67,7 @@ ul {
   gap: 20px;
   text-align: center;
   padding: 10px;
-}
-
-.cabecalho2-listas {
-
+  border-bottom: 0.5px solid rgb(223, 223, 223);
 }
 
 .cabecalho2-links {
@@ -78,6 +75,44 @@ ul {
   font-size: 11px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.featured-menu {
+  background-color: white;
+  height: 50px;
+}
+
+.container-imagens {
+  display: flex;
+  flex-direction: row;
+  max-height: 400px;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+.imagens-laterais{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+.laterais-img {
+  max-height: 193px;
+  width: auto;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .maisDestaques {
