@@ -4,6 +4,7 @@
 1- Tornar responsivo <br>
 2- Acrescentar mais receitas na página inicial <br>
 3- Tornar os 2 menus fixos para que mesmo rolando a página para baixo eles continuem aparecendo <br>
+4- Acrescentar lupa no campo de busca "Encontre sua receita..."
 <br>
 Minha criação: <br>
 
