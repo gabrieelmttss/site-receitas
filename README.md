@@ -6,6 +6,7 @@
 3- Tornar os 2 menus fixos para que mesmo rolando a página para baixo eles continuem aparecendo <br>
 4- Acrescentar lupa no campo de busca "Encontre sua receita..."
 <br>
+<br>
 Minha criação: <br>
 
 ![Screenshot](meuSite.png)
